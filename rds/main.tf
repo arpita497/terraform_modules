@@ -36,3 +36,4 @@ module "rds-db" {
 
   #multi_az
   multi_az = var.multi_az
+}
